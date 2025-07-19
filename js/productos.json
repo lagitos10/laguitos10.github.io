@@ -1,0 +1,434 @@
+[
+     
+    {
+        "id": "xbox1",
+        "titulo": "xbox 360",
+        "imagen": "./img/XBOX/XBOX 360.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "xbox"
+        },
+        "precio": 800000
+    },
+    {
+        "id": "xbox2",
+        "titulo": "xbox one",
+        "imagen": "./img/XBOX/XBOX one.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "xbox"
+        },
+        "precio": 1500000
+    },
+    {
+        "id": "xbox3",
+        "titulo": "xbox one S",
+        "imagen": "./img/XBOX/XBOX one S.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "xbox"
+        },
+        "precio": 1800000
+    },
+    {
+        "id": "xbox4",
+        "titulo": "xbox one X",
+        "imagen": "./img/XBOX/XBOX one X.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "xbox"
+        },
+        "precio": 1800000
+    },
+    {
+        "id": "xbox5",
+        "titulo": "xbox series S",
+        "imagen": "./img/XBOX/XBOX series S.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "xbox"
+        },
+        "precio": 1600000
+    },
+    {
+        "id": "xbox",
+        "titulo": "xbox series X",
+        "imagen": "./img/XBOX/XBOX series X.jpg",
+        "categoria": {
+            "nombre": "XBOX",
+            "id": "xbox"
+        },
+        "precio": 2200000
+    },
+    {
+        "id": "ps",
+        "titulo": "play station 1",
+        "imagen": "./img/PLAY STATION/PLAY STATION 1.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 600000
+    },
+    {
+        "id": "ps2",
+        "titulo": "play station 2",
+        "imagen": "./img/PLAY STATION/PLAY STATION 2.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 1100000
+    },
+    {
+        "id": "ps3",
+        "titulo": "play station 3",
+        "imagen": "./img/PLAY STATION/PLAY STATION 3.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 900000
+    },
+    {
+        "id": "ps4",
+        "titulo": "play station 4",
+        "imagen": "./img/PLAY STATION/PLAY STATION 4.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 1500000
+    },
+    {
+        "id": "ps5",
+        "titulo": "play station 5",
+        "imagen": "./img/PLAY STATION/PLAY STATION 5.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 2600000
+    },
+    {
+        "id": "ps6",
+        "titulo": "play station portal",
+        "imagen": "./img/PLAY STATION/PLAY STATION portal.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 1200000
+    },
+    {
+        "id": "ps7",
+        "titulo": "play station vita",
+        "imagen": "./img/PLAY STATION/PLAY STATION vita.jpg",
+        "categoria": {
+            "nombre": "PLAY STATION",
+            "id": "ps"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "nintendo1",
+        "titulo": "game boy",
+        "imagen": "./img/NINTENDO SWITCH/game boy.jpg",
+        "categoria": {
+            "nombre": "NINTENDO SWITCH",
+            "id": "nintendo"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "nintendo2",
+        "titulo": "game boy advance",
+        "imagen": "./img/NINTENDO SWITCH/game boy advance.jpg",
+        "categoria": {
+            "nombre": "NINTENDO SWITCH",
+            "id": "nintendo"
+        },
+        "precio": 1200000
+    },
+    {
+        "id": "nintendo3",
+        "titulo": "wii u",
+        "imagen": "./img/NINTENDO SWITCH/wii u.jpg",
+        "categoria": {
+            "nombre": "NINTENDO SWITCH",
+            "id": "nintendo"
+        },
+        "precio": 1300000
+    },
+    {
+        "id": "nintendo4",
+        "titulo": "nintendo switch 1",
+        "imagen": "./img/NINTENDO SWITCH/nintendo 1.jpg",
+        "categoria": {
+            "nombre": "NINTENDO SWITCH",
+            "id": "nintendo"
+        },
+        "precio": 1400000
+    },
+    {
+        "id": "nintendo5",
+        "titulo": "nintendo switch oled",
+        "imagen": "./img/NINTENDO SWITCH/nintendo oled.jpg",
+        "categoria": {
+            "nombre": "NINTENDO SWITCH",
+            "id": "nintendo"
+        },
+        "precio": 1500000
+    },
+    {
+        "id": "nintendo6",
+        "titulo": "nintendo switch 2",
+        "imagen": "./img/NINTENDO SWITCH/nintendo 2.jpg",
+        "categoria": {
+            "nombre": "NINTENDO SWITCH",
+            "id": "nintendo"
+        },
+        "precio": 3000000
+    },
+    {
+        "id": "video juegos1",
+        "titulo": "mortal kombat 11",
+        "imagen": "./img/JUEGOS/xbox1.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS XBOX",
+            "id": "juegos de xbox"
+        },
+        "precio": 160000
+    },
+    {
+        "id": "video juegos2",
+        "titulo": "Gears of war",
+        "imagen": "./img/JUEGOS/xbox2.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS XBOX",
+            "id": "juegos de xbox"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "video juegos3",
+        "titulo": "Gran theft auto five",
+        "imagen": "./img/JUEGOS/xbox3.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS XBOX",
+            "id": "juegos de xbox"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "video juegos4",
+        "titulo": "Call of Duty back ops 2 ",
+        "imagen": "./img/JUEGOS/xbox4.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS XBOX",
+            "id": "juegos de xbox"
+        },
+        "precio": 140000
+    },
+    {
+        "id": "video juegos5",
+        "titulo": "Halo 5",
+        "imagen": "./img/JUEGOS/xbox5.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS XBOX",
+            "id": "juegos de xbox"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "video juegos6",
+        "titulo": "FC 25",
+        "imagen": "./img/JUEGOS/xbox6.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS XBOX",
+            "id": "juegos de xbox"
+        },
+        "precio": 160000
+    },
+    {
+        "id": "video juegos-1",
+        "titulo": "God of war Ragnarok",
+        "imagen": "./img/JUEGOS/play1.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS PS",
+            "id": "juegos de play"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "video juegos-2",
+        "titulo": "spider-man 2",
+        "imagen": "./img/JUEGOS/play2.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS PS",
+            "id": "juegos de play"
+        },
+        "precio": 260000
+    },
+    {
+        "id": "video juegos-3",
+        "titulo": "spider-man mails morales",
+        "imagen": "./img/JUEGOS/play3.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS PS",
+            "id": "juegos de play"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "video juegos-4",
+        "titulo": "The last of us",
+        "imagen": "./img/JUEGOS/play4.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS PS",
+            "id": "juegos de play"
+        },
+        "precio": 264000
+    },
+    {
+        "id": "video juegos-5",
+        "titulo": "Horizon",
+        "imagen": "./img/JUEGOS/play5.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS PS",
+            "id": "juegos de play"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "video juegos-6",
+        "titulo": " Assassins Creed Valhalla 5",
+        "imagen": "./img/JUEGOS/play6.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS PS",
+            "id": "juegos de play"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "video juegos--1",
+        "titulo": " Super smashs bros",
+        "imagen": "./img/JUEGOS/nintendo.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS nintendo",
+            "id": "juegos de nintendo"
+        },
+        "precio": 250000
+    },
+    {
+        "id": "video juegos--2",
+        "titulo": "Mario kard",
+        "imagen": "./img/JUEGOS/nintendo2.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS nintendo",
+            "id": "juegos de nintendo"
+        },
+        "precio": 230000
+    },
+    {
+        "id": "video juegos--3",
+        "titulo": "Donkey kong country",
+        "imagen": "./img/JUEGOS/nintendo3.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS nintendo",
+            "id": "juegos de nintendo"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "video juegos--4",
+        "titulo": "sonic forces",
+        "imagen": "./img/JUEGOS/nintendo4.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS nintendo",
+            "id": "juegos de nintendo"
+        },
+        "precio": 130000
+    },
+    {
+        "id": "video juegos--5",
+        "titulo": "Zelda",
+        "imagen": "./img/JUEGOS/nintendo5.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS nintendo",
+            "id": "juegos de nintendo"
+        },
+        "precio": 240000
+    },
+    {
+        "id": "video juegos--6",
+        "titulo": "pokemon Arceus",
+        "imagen": "./img/JUEGOS/nintendo6.jpg",
+        "categoria": {
+            "nombre": "VIDEO JUEGOS nintendo",
+            "id": "juegos de nintendo"
+        },
+        "precio": 250000
+    },
+    {
+        "id": "video juegos---1",
+        "titulo": "mando play station 5",
+        "imagen": "./img/JUEGOS/mando ps.jpg",
+        "categoria": {
+            "nombre": "MANDOS ",
+            "id": "mandos"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "video juegos---2",
+        "titulo": "mando play station 4",
+        "imagen": "./img/JUEGOS/mando ps4.jpg",
+        "categoria": {
+            "nombre": "MANDOS ",
+            "id": "mandos"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "video juegos---3",
+        "titulo": "mando play station 3",
+        "imagen": "./img/JUEGOS/mando ps3.jpg",
+        "categoria": {
+            "nombre": "MANDOS ",
+            "id": "mandos"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "video juegos---4",
+        "titulo": "mando xbox 360",
+        "imagen": "./img/JUEGOS/mando xbox360.jpg",
+        "categoria": {
+            "nombre": "MANDOS ",
+            "id": "mandos"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "video juegos---5",
+        "titulo": "mando xbox series S",
+        "imagen": "./img/JUEGOS/mando xboxS.jpg",
+        "categoria": {
+            "nombre": "MANDOS ",
+            "id": "mandos"
+        },
+        "precio": 130000
+    },
+    {
+        "id": "video juegos---6",
+        "titulo": "mando Nintendo switch",
+        "imagen": "./img/JUEGOS/mando NS.jpg",
+        "categoria": {
+            "nombre": "MANDOS ",
+            "id": "mandos"
+        },
+        "precio": 70000
+    }
+
+]
